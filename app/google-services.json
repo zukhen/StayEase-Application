@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395895462301",
+    "project_id": "qlks-502e6",
+    "storage_bucket": "qlks-502e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395895462301:android:97c259f1c50f2899253774",
+        "android_client_info": {
+          "package_name": "com.example.qlks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395895462301-hbkb7ms75htulglko8rjoji43r97687n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33ESkyHuZd8XasVGBKMPdu0pjZZawSrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395895462301-hbkb7ms75htulglko8rjoji43r97687n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
